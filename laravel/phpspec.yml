@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: CodyGibbs
+        psr4_prefix: CodyGibbs
         src_path: app

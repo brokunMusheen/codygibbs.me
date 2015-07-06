@@ -1,11 +1,11 @@
 {
   "name": "public",
   "version": "1.0.0",
-  "homepage": "http://codygibbs.me",
+  "homepage": "http://CodyGibbs",
   "authors": [
     "Cody Gibbs <cody.gibbs@coderprime.com>"
   ],
-  "description": "codygibbs.me assets",
+  "description": "CodyGibbs assets",
   "license": "private",
   "ignore": [
     "**/.*",

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace CodyGibbs\Events;
 
 abstract class Event
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace CodyGibbs\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

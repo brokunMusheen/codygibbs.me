@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace CodyGibbs\Http\Controllers\Auth;
 
-use App\User;
+use CodyGibbs\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use CodyGibbs\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
