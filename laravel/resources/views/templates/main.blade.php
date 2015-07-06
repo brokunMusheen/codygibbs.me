@@ -10,8 +10,7 @@
       @yield('body_content')
 
       @section('body_js')
-         <script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
-         <script type="text/javascript" src="/bower_components/foundation/js/foundation.min.js"></script>
+         <script type="text/javascript" src="{{ elixir('js/all.js') }}"></script>
       @show
     </body>
 </html>
